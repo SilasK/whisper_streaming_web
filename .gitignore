@@ -131,3 +131,6 @@ dmypy.json
 
 pixi.lock
 *.wav
+
+
+run_*.sh
