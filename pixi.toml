@@ -13,6 +13,7 @@ python = "3.11.*"
 librosa = ">=0.10.2.post1,<0.11"
 fastapi = ">=0.115.6,<0.116"
 ffmpeg-python = ">=0.2.0,<0.3"
+ffmpeg = ">=5,<7"
 mosestokenizer = "*"
 uvicorn = "*" # for server
 sentencepiece = ">=0.2.0,<0.3"
